@@ -2,7 +2,7 @@
 
 WeatherHook is a simple application that checks for weather alerts concerning a specific area of the user's choice, and sends the information to a Discord webhook.
 
-# Disclaimer:
+## Disclaimer:
 
 This program and its developer are **NOT** in any way affiliated with the National Weather Service, and I do not recommend using this as a *primary* way to receive warnings. If you live in the United States and need a way to receive weather alerts, I highly recommend using the resources listed below:
 
